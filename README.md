@@ -13,7 +13,7 @@ About used patterns:
 - 
 
 **Creational patterns:**
-  - Abstract Factory - used for proccess of creation of cards objects
+  - Abstract Factory - used for process of creation of cards objects
   - Prototype - provides cloning of existing cards instances in the factory
   - Builder - constructs level configuration
   - Singleton - manages the game logic
