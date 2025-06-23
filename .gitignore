@@ -1,0 +1,12 @@
+.idea
+
+bin
+obj
+
+*.csproj
+*.sln
+Library
+Logs
+Output
+Temp
+UserSettings
