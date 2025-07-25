@@ -5,9 +5,9 @@ Memory Card Game (MCG) is a project created during laboratory work on Software M
 About the project:
 -
 
-MGC is a two-player game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards. For each pair player gains a point. Each turn is limited in time, so players have to be not only attentive, but quick too!
+MCG is a two-player game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards. For each pair player gains a point. Each turn is limited in time, so players have to be not only attentive, but quick too!
 
-MGC develops the classic game by adding various bonuses (additional time, additional point) and debuffs (time reduction, point reduction). Also, players can configure level on their manner by setting custom number of cards and time per turn. And, as the icing on the cake, the game uses "italian brainrot" theme and has an audio for each card :) 
+MCG develops the classic game by adding various bonuses (additional time, additional point) and debuffs (time reduction, point reduction). Also, players can configure level on their manner by setting custom number of cards and time per turn. And, as the icing on the cake, the game uses "italian brainrot" theme and has an audio for each card :) 
 
 About used patterns:
 - 
